@@ -1,6 +1,4 @@
-Hello there,
-
-My name is Adnan and the repo serves as record of my first attempts at Go.
+# TheAlgorithDesignManual_in_Go
 
 The idea is to write Go code for some (if not all) of the algorithms I come across in the book
 'The Algorithm Design Manual, 3rd edition' by Steven Skiena in hopes of getting more intimately familiar with the
